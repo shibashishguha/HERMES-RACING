@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc89cc9b.css",
+    "main.js": "/static/js/main.09facb85.js",
+    "static/js/453.fc0bf555.chunk.js": "/static/js/453.fc0bf555.chunk.js",
+    "static/media/team_akanksha.jpeg": "/static/media/team_akanksha.058b4e78edc3ea507b86.jpeg",
+    "static/media/slide 2.jpeg": "/static/media/slide 2.f9b3add6cab3a7145771.jpeg",
+    "static/media/slide 3.jpg": "/static/media/slide 3.c5cf0b35478d670987e1.jpg",
+    "static/media/team_hachbee.jpeg": "/static/media/team_hachbee.d7106114e9af778642d0.jpeg",
+    "static/media/formula student poster.jpg": "/static/media/formula student poster.103a0fe55d74b80786c0.jpg",
+    "static/media/team_chandan.jpeg": "/static/media/team_chandan.99321706202286a5fee1.jpeg",
+    "static/media/team_deepika.jpeg": "/static/media/team_deepika.b33ecd3707fb160d33bf.jpeg",
+    "static/media/team_sahil.jpeg": "/static/media/team_sahil.e90361adf23ca26a84c6.jpeg",
+    "static/media/slide 1.jpg": "/static/media/slide 1.90fd6970f703bd6591e6.jpg",
+    "static/media/team_anirban.jpg": "/static/media/team_anirban.f429939ab6b3633f93ae.jpg",
+    "static/media/team_aryan.jpeg": "/static/media/team_aryan.81067d1cb553aadc1e04.jpeg",
+    "static/media/slide4_cars.jpg": "/static/media/slide4_cars.f9fbe7deafcbb04a7c9b.jpg",
+    "static/media/slide2_cars.jpg": "/static/media/slide2_cars.9816558af0594429d822.jpg",
+    "static/media/team_biswajeet.jpg": "/static/media/team_biswajeet.10d2f52fd12147f53e6e.jpg",
+    "static/media/slide1_cars.jpg": "/static/media/slide1_cars.44ac494d8c919326d43f.jpg",
+    "static/media/slide3_cars.jpg": "/static/media/slide3_cars.aad72fc6cdc8b5fe02f8.jpg",
+    "static/media/slide5_cars.jpg": "/static/media/slide5_cars.72f9a078c3c37b2b22c0.jpg",
+    "static/media/team_sabyasachi.jpg": "/static/media/team_sabyasachi.a68c30ffd2d5d55982fa.jpg",
+    "static/media/logo.jpg": "/static/media/logo.06caa98b320db15e805b.jpg",
+    "static/media/team_samyak.jpeg": "/static/media/team_samyak.e91617efc610c1544fab.jpeg",
+    "index.html": "/index.html",
+    "main.dc89cc9b.css.map": "/static/css/main.dc89cc9b.css.map",
+    "main.09facb85.js.map": "/static/js/main.09facb85.js.map",
+    "453.fc0bf555.chunk.js.map": "/static/js/453.fc0bf555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc89cc9b.css",
+    "static/js/main.09facb85.js"
+  ]
+}
